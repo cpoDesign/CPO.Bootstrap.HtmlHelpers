@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>CpoDesign.Bootstrap.MVC.HtmlHelpers</id>
+        <version>1.0.1</version>
+        <authors>Pavel Svarc</authors>
+        <owners>Pavel Svarc</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Html helpers for ASP.MVC helpers</description>
+        <language>en-GB</language>
+        <tags>cpodesign bootstrap htmlhelper mvc</tags>
+    </metadata>
+    <files>        
+        <file src="bin\Release\Bootstrap.HtmlHelpers.dll" target="lib\net45\Bootstrap.HtmlHelpers.dll" />
+        <file src="bin\Release\Bootstrap.HtmlHelpers.pdb" target="lib\net45\Bootstrap.HtmlHelpers.pdb" />
+    </files>
+</package>
